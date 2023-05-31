@@ -1,0 +1,9 @@
+---
+catalog-repositories:
+- name: "dapr"
+  description: "Dapr Catalog."
+  url: "https://github.com/ciberkleid/spring-cli-dapr-catalog"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "dapr"
