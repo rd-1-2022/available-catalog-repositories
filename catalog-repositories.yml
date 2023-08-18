@@ -1,5 +1,13 @@
 ---
 catalog-repositories:
+- name: "ai-azure"
+  description: "Azure OpenAI Catalog."
+  url: "https://github.com/rd-1-2022/ai-azure-catalog"
+  tags:
+  - "java-17"
+  - "boot-3.1.x"
+  - "ai"
+  - "azure"
 - name: "dapr"
   description: "Dapr Catalog."
   url: "https://github.com/ciberkleid/spring-cli-dapr-catalog"
