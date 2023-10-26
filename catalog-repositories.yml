@@ -8,6 +8,12 @@ catalog-repositories:
   - "boot-3.1.x"
   - "ai"
   - "azure"
+- name: "spring-integration"
+  description: "Spring Integration Catalog."
+  url: "https://github.com/rd-1-2022/si-catalog"
+  tags:
+  - "java-17"
+  - "integration"
 - name: "dapr"
   description: "Dapr Catalog."
   url: "https://github.com/ciberkleid/spring-cli-dapr-catalog"
